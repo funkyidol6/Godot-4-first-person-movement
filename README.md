@@ -24,13 +24,12 @@ Open Godot 4 Engine.
 
 Click on "Import" and select the project folder you just cloned.
 
-Once the project is imported, navigate to the scenes folder and open the main_scene.tscn file.
+Once the project is imported, navigate to the scenes folder and open the 3d_c2.tscn file.
 
 Press the Play button at the top of the Godot interface to run the scene.
 
 Usage
-Use W, A, S, D keys to move forward, left, backward, and right.
-Hold Shift while moving to sprint.
+Use up, left, down, right keys to move forward, left, backward, and right.
 Use the Space key to jump.
 Move your mouse to rotate the camera.
 Customization
