@@ -44,7 +44,7 @@ Contributions
 Contributions to this repository are welcome! If you have any improvements or additional features to add, feel free to fork this repository, make your changes, and submit a pull request.
 
 License
-This project is licensed under the MIT License, which means you can use and modify the code in any way you'd like. However, please attribute the original work to this repository.
+This project is licensed under the GNU V3 License, which means you can use and modify the code in any way you'd like. However, please attribute the original work to this repository.
 
 Acknowledgments
 This project was inspired by the need for a simple and understandable first-person controller example in Godot 4. Thanks to the Godot community and the contributors for their support and inspiration.
