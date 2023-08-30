@@ -19,6 +19,7 @@ Clone this repository to your local machine using:
 
 
 git clone https://github.com/MAhazzKhan/Godot-4-first-person-movement.git
+
 Open Godot 4 Engine.
 
 Click on "Import" and select the project folder you just cloned.
