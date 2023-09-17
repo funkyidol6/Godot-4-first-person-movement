@@ -48,4 +48,4 @@ This project is licensed under the GNU V3 License, which means you can use and m
 Acknowledgments
 This project was inspired by the need for a simple and understandable first-person controller example in Godot 4. Thanks to the Godot community and the contributors for their support and inspiration.
 
-Happy game development! If you encounter any issues or have questions, feel free to create an issue on this repository. Enjoy working with Godot 4 and creating awesome games! 🎮
+If you encounter any issues or have questions, feel free to create an issue on this repository. Enjoy working with Godot 4 and creating awesome games! 🎮
